@@ -1,4 +1,4 @@
-## Task: Implement the method for checking monotonic conjugation.
+### Task: Implement the method for checking monotonic conjugation.
 Interpreter: `Python 3.7`
 
 To run the program: 
